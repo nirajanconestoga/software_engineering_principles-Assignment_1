@@ -1,4 +1,4 @@
-# Project Preparation Document: Pet Daycare Onboarding System
+# Preparation Document: Pet Daycare Onboarding System
 
 ## Purpose & Objective
 
@@ -10,5 +10,3 @@ The purpose of this document is to prepare for the first client meeting by ident
 - Develop a structured set of questions to uncover additional insights into these issues.
 - Establish clear and measurable requirements to guide the development of a solution.
 - Outline preliminary tasks that will help streamline onboarding and improve overall efficiency.
-
-
