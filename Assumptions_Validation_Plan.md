@@ -12,3 +12,10 @@ These assumptions are based on the initial interview. They need to be validated 
 8. Clients expect a seamless, digital onboarding experience but currently face a largely manual process.
 9. There are frequent miscommunications between employees and clients due to unclear procedures.
 10. The current existing onboarding materials are outdated and not updated to the daycare’s specific needs.
+
+### Validation Plan:
+1. Conduct in-depth discussions with all the employees, either newly hired or experienced, to verify training gaps.
+2. Review existing client onboarding materials and methods with the client.
+3. Analyze feedback from past employees and clients regarding onboarding.
+4. Compare the onboarding period and efficiency with industry standards.
+5. Test a suggested standardized process with a small group before full implementation.
