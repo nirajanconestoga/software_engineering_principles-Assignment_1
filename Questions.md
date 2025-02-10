@@ -15,3 +15,12 @@
 3. How do employees currently communicate with clients about onboarding?
 4. What are the biggest frustrations that clients experience during the onboarding process?
 5. Are there any specific policies or rules that the clients frequently misunderstand?
+
+### Follow-Up Clarification Questions
+1. Follow-Up Clarification Questions
+2. What feedback have past employees provided regarding onboarding procedure improvements?
+3. Are there any peak seasons that affect the onboarding volume and efficiency?
+4. How do your competitors handle their onboarding processes?
+5. How do different employees approach the onboarding process, and where do inconsistencies arise?
+6. What specific examples can employees and clients provide about their onboarding challenges?
+7. What expectations do clients have when they first approach the pet daycare for onboarding?
