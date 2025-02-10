@@ -7,6 +7,7 @@
 4. How is progress tracked during new employee onboarding?
 5. What are the main concerns of employees about the current system?
 6. What are the key success factors for a fully onboarded employee?
+7. How do employees currently ensure consistency in the onboarding procedure?
 
 ### Client Onboarding Procedure
 1. What are the steps a new client should go through in order to register their pet?
