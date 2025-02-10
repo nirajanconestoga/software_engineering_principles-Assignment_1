@@ -13,3 +13,9 @@
 - Provide a standardized workflow for all employees by defining clear protocols for client handling.
 - Establish a structured approach to information gathering to ensure all necessary details are collected efficiently.
 - Create a client checklist that includes required documents and agreements.
+
+### Improving Client Experience
+- Provide clear instructions and expectations by including FAQs, video tutorials, and an onboarding support contact.
+- Set a structured client inquiry system that includes dedicated onboarding assistance.
+- Reduce confusion of the clients by implementing a self-service dashboard to track their onboarding progress.
+- Implement feedback collection mechanisms, i.e., surveys and review forms, to identify areas for continuous improvement.
