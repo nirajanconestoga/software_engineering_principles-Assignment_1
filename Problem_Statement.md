@@ -1,2 +1,4 @@
+# Preparation Document: Pet Daycare Onboarding System
+
 ## Problem Statement
 The pet daycare is encountering inefficiencies in its onboarding processes, affecting employees, clients, and overall business operations. Employee onboarding currently takes approximately three months, creating frustration for staff and owners. Additionally, there is no standardized process for client onboarding, leading to inconsistent procedures among employees. As a result, clients struggle to navigate the onboarding process, which leads to confusion and dissatisfaction. Handling these inefficiencies is essential to improving operational effectiveness, reducing frustration, and ensuring a seamless experience for employees as well as for clients.
